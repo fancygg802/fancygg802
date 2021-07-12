@@ -1,8 +1,8 @@
-#EXTINF:-1 group-title=央视,CCTV1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title=央视,CCTV1
 http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/225/3221227725/index.m3u8
-#EXTINF:-1 group-title=央视,CCTV1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title=央视,CCTV1 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1 group-title=央视,CCTV1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title=央视,CCTV1 
 http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 #EXTINF:-1 group-title=央视,CCTV2 
 http://39.134.39.39/270000001322/69900158041111100000002135/index.m3u8
