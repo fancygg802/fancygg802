@@ -38,11 +38,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
 #EXTINF:-1 group-title=央视,CCTV5+ 8M1080
 http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影(安康移动8M)
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
 http://39.134.24.24/TVOD/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
+#EXTINF:-1 group-title="央视",CCTV-6
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
+#EXTINF:-1 group-title="央视",CCTV-6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1 group-title=央视,CCTV7
 http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/225/3221227690/index.m3u8
