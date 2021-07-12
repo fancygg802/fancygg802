@@ -74,9 +74,9 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/1.m3u8
 #EXTINF:-1 group-title=央视,CCTV4K
 http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5121J6453Z.jpg" group-title="地方",SiTV-23五星体育(联通4M)
+#EXTINF:-1,五星体育
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=4
-#EXTINF:-1 tvg-id="" tvg-name="" 五星体育"" group-title="地方",上海五星
+#EXTINF:-1,五星体育
 http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1,劲爆体育
 http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
