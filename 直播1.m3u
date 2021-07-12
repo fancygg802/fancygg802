@@ -104,6 +104,8 @@ http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 http://39.134.39.39/270000001322/69900158041111100000002199/index.m3u8
 #EXTINF:-1,上海东方影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1,第一财经
+http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方",求索科学
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方",求索动物
