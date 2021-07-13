@@ -126,13 +126,13 @@ http://39.134.39.39/270000001322/69900158041111100000002199/index.m3u8
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方台",第一财经
 http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方",求索科学
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方台",求索科学
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方",求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方台",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="地方",求索纪录
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="地方台",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="地方",求索生活
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="地方台",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他",CHC动作电影 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
