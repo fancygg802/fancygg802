@@ -332,9 +332,9 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="港澳台",台视新闻
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",RTHK31
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/rthk31.jpg?raw=true" group-title="港澳台",RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 group-title="港澳台",RTHK32
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/rthk32.jpg?raw=true" group-title="港澳台",RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/tvbnews.png?raw=true" group-title="港澳台",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
