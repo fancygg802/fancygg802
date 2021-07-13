@@ -90,7 +90,7 @@ http://58.200.190.80/hls/hls184a518.m3u8
 http://58.200.190.80/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",CCTV-女性时尚
 http://58.200.190.80/hls/hls184a522.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",CCTV-兵器科技
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/cctvbqkj.jpg?raw=true" group-title="央视",CCTV-兵器科技
 http://58.200.190.80/hls/hls184a573.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",CCTV-央视台球
 http://58.200.190.80/hls/hls184a574.m3u8
