@@ -301,7 +301,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227070/index.m
 #EXTINF:-1 group-title="地方台",芒果TV 4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
-rtmp://59.124.75.130/sat/tv721
+http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
 rtmp://59.124.75.130:1935/sat/tv721
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/TVBSNews.png?raw=true" group-title="港澳台",TVBS新闻
