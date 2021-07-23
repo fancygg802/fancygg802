@@ -128,13 +128,29 @@ http://39.134.39.39/270000001322/69900158041111100000002199/index.m3u8
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方台",第一财经
 http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方台",求索科学
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方台",北京冬奥纪实
+http://39.135.138.8:6610/PLTV/88888888/224/3221225676/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="地方台",北京新闻
+http://58.200.190.80/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="地方台",北京文艺
+http://58.200.190.80/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png" group-title="地方台",北京科教
+http://58.200.190.80/hls/btv3hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" group-title="地方台",北京影视
+http://58.200.190.80/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" group-title="地方台",北京财经
+http://58.200.190.80/hls/btv5hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" group-title="地方台",北京生活
+http://58.200.190.80/hls/btv7hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" group-title="地方台",北京青年
+http://58.200.190.80/hls/btv8hd.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="其他",求索科学
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方台",求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="其他",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="地方台",求索纪录
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="其他",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="地方台",求索生活
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="其他",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他",CHC动作电影 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -142,52 +158,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",CHC高清电影 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="其他",IPTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级体育 
-http://39.135.138.8:6610/PLTV/88888888/224/3221225767/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级电影 
-http://39.135.138.8:6610/PLTV/88888888/224/3221225766/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV动作电影
-http://39.134.155.161/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV军旅剧场
-http://39.135.138.5:6610/PLTV/88888888/224/3221225669/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewT武搏世界
-http://39.135.138.5:6610/PLTV/88888888/224/3221225656/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级电视剧 
-http://39.135.138.8:6610/PLTV/88888888/224/3221225765/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV古装剧场
-http://39.134.155.183/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级综艺 
-http://39.135.138.8:6610/PLTV/88888888/224/3221225768/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV精品记录
-http://39.135.138.5:6610/PLTV/88888888/224/3221225710/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV军事评论
-http://39.135.138.5:6610/PLTV/88888888/224/3221225757/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV潮妈辣婆
-http://39.135.138.5:6610/PLTV/88888888/224/3221225708/2/index.m3u8
 #EXTINF:-1 group-title="其他",黑莓电影
 http://39.134.155.155/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="其他",黑莓动画
 http://39.134.155.147/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="其他",SiTV全纪实 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/dongman.jpg?raw=true" group-title="其他",SiTV动漫秀场 
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="其他",SiTV极速汽车
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场 
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场 
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="其他",SiTV游戏风云 
-http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="其他",SiTV生活时尚 
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/dushijuchang.jpg?raw=true" group-title="其他",SiTV都市剧场 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="其他",IPTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视台",东方卫视
 http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视台",东方卫视
@@ -212,8 +188,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230232/index.m3u8
 http://39.134.39.39/270000001322/69900158041111100000002143/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视台",湖南卫视 Max16M1080
 http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方台",北京冬奥纪实
-http://39.135.138.8:6610/PLTV/88888888/224/3221225676/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视台",北京卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视台",北京卫视
@@ -294,6 +268,46 @@ http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方台",湖南金鹰纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级体育 
+http://39.135.138.8:6610/PLTV/88888888/224/3221225767/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级电影 
+http://39.135.138.8:6610/PLTV/88888888/224/3221225766/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV动作电影
+http://39.134.155.161/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV军旅剧场
+http://39.135.138.5:6610/PLTV/88888888/224/3221225669/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewT武搏世界
+http://39.135.138.5:6610/PLTV/88888888/224/3221225656/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级电视剧 
+http://39.135.138.8:6610/PLTV/88888888/224/3221225765/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV古装剧场
+http://39.134.155.183/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级综艺 
+http://39.135.138.8:6610/PLTV/88888888/224/3221225768/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV精品记录
+http://39.135.138.5:6610/PLTV/88888888/224/3221225710/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV军事评论
+http://39.135.138.5:6610/PLTV/88888888/224/3221225757/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV潮妈辣婆
+http://39.135.138.5:6610/PLTV/88888888/224/3221225708/2/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="其他",SiTV全纪实 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/dongman.jpg?raw=true" group-title="其他",SiTV动漫秀场 
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="其他",SiTV极速汽车
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场 
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场 
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="其他",SiTV游戏风云 
+http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="其他",SiTV生活时尚 
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/dushijuchang.jpg?raw=true" group-title="其他",SiTV都市剧场 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/4Khuayuan.png?raw=true" group-title="其他",4K花园 
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="其他",爱上4K 
