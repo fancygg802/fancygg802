@@ -125,7 +125,7 @@ http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方台",哈哈炫动
 http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方台",北京冬奥纪实
-http://39.135.138.8:6610/PLTV/88888888/224/3221225676/2/index.m3u8?fmt=ts2hls
+http://58.200.190.80/hls/hls69a25.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="地方台",北京新闻
 http://58.200.190.80/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="地方台",北京文艺
