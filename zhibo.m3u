@@ -277,7 +277,7 @@ http://39.134.155.183/PLTV/88888888/224/3221225571/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级综艺 
 http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV精品记录
-http://39.135.138.5:6610/PLTV/88888888/224/3221225710/2/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV军事评论
 http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV潮妈辣婆
