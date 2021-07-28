@@ -173,13 +173,11 @@ http://39.134.39.39/270000001322/69900158041111100000002207/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视台",东方卫视 Max16M1080
 http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视台",浙江卫视
-http://39.134.39.39/PLTV/88888888/224/3221226266/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视台",浙江卫视 
 http://39.134.39.39/270000001322/69900158041111100000002206/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视台",浙江卫视 Max16M1080
 http://39.134.24.24/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视台",湖南卫视
-http://39.134.39.39/PLTV/88888888/224/3221226268/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视台",湖南卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视台",湖南卫视 
@@ -189,21 +187,17 @@ http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视台",北京卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视台",北京卫视
-http://39.135.138.8:6610/PLTV/88888888/224/3221225674/2/index.m3u8?fmt=ts2hls
+http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视台",四川卫视
 http://117.136.154.98/PLTV/88888888/224/3221225794/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视台",天津卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视台",天津卫视
-http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视台",天津卫视 
 http://39.134.39.39/270000001322/69900158041111100000002205/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视台",安徽卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视台",安徽卫视 
 http://39.134.39.39/270000001322/69900158041111100000002200/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视台",山东卫视
-http://39.134.39.39/PLTV/88888888/224/3221226297/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视台",山东卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视台",山东卫视
@@ -215,9 +209,7 @@ http://39.134.39.39/270000001322/69900158041111100000002203/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视台",广东卫视 Max16M1080
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视台",江苏卫视
-http://39.134.39.39/PLTV/88888888/224/3221226264/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视台",江苏卫视
-http://39.134.176.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/01.m3u8?fmt=ts2hls
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视台",江苏卫视 
 http://39.134.39.39/270000001322/69900158041111100000002137/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视台",江苏卫视
@@ -253,7 +245,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视台",辽宁卫视 
 http://39.134.39.39/270000001322/69900158041111100000002201/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视台",重庆卫视
-http://39.135.138.8:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视台",重庆卫视
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视台",黑龙江卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视台",黑龙江卫视 
@@ -277,7 +271,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewT武搏世界
 http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级电视剧 
-http://39.135.138.8:6610/PLTV/88888888/224/3221225765/2/index.m3u8?fmt=ts2hls
+http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV古装剧场
 http://39.134.155.183/PLTV/88888888/224/3221225571/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/newtv.png?raw=true" group-title="其他",NewTV超级综艺 
@@ -301,7 +295,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",SiTV欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="其他",SiTV游戏风云 
-http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/01.m3u8?fmt=ts2hls
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="其他",SiTV生活时尚 
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/dushijuchang.jpg?raw=true" group-title="其他",SiTV都市剧场 
@@ -313,7 +307,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="其他",爱上4K 
 http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 group-title="其他",纯享4K 
-http://39.135.138.8:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/baishitong.png?raw=true" group-title="其他",BesTV-记录 4K
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/baishitong.png?raw=true" group-title="其他",BesTV-电影 4K
@@ -383,8 +377,8 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",TVB明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV6
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV6
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+https://cdn.hkdtmb.com/hls/96/index.m3u8
