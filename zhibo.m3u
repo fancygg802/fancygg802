@@ -369,15 +369,15 @@ http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/rthk32.jpg?raw=true" group-title="港澳台",RTHK32
 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/tvbnews.png?raw=true" group-title="港澳台",无线新闻台
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fancygg802/fancygg802/blob/main/tvbcaijing.png?raw=true" group-title="港澳台",无线财经资讯台
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",TVB翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVBJ2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",TVB明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV6
